@@ -52,3 +52,10 @@ A video of your building tool in action
 Create a pull request to this repository 
 Submit your Houdini file to Canvas along with a link to your pull request 
 IMPORTANT NOTE: make sure your HDA is either embedded in the HIP file or included with your submission (see the instructions under “Part 1: Box Stacking HDA” for additional details).
+
+
+Renders:
+![image](https://github.com/user-attachments/assets/2d368466-8783-4ece-8643-cd613adcb913)
+![image](https://github.com/user-attachments/assets/aaae2fd9-a3f9-41e4-ada6-db047db516b8)
+![image](https://github.com/user-attachments/assets/ece9cced-c406-45ed-a316-4d6ee933539c)
+![image](https://github.com/user-attachments/assets/7a5952d6-9e1a-401e-b667-a466d7797e03)
